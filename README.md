@@ -43,6 +43,10 @@ Turning ideas into products with code, caffeine and sport.
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swift-1a1a1a?style=for-the-badge&logo=swift&logoColor=FA7343" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-f0f0f0?style=for-the-badge&logo=swift&logoColor=FA7343" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-f0f0f0?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+</picture>
 
 **Frontend**
 
