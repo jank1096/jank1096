@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-Founder & CEO at **ATHLESY** · Passionate about **Big Data**, **AI** & **Sports**
+Founder & CEO at **ATHLESY** · Passionate about **Big Data**, **AI** & **Sport**
 <br/>
 Turning ideas into products with code, caffeine and sport.
 
