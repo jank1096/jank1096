@@ -11,7 +11,7 @@
 
 Founder & CEO at **ATHLESY** · Passionate about **Big Data**, **AI** & **Sports Tech**
 <br/>
-Turning ideas into products with code and caffeine
+Turning ideas into products with code, caffeine and sport.
 
 </div>
 
