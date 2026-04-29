@@ -1,26 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3600&pause=900&color=FFFFFF&center=true&vCenter=true&random=false&width=760&lines=Hey+I'm+Jan;Building+with+Build+AI+Tech;AI+Automation+%7C+Big+Data+%7C+Digital+Products;Data-driven+systems+that+help+companies+move+faster;From+lead+gen+to+CRM%2C+finance%2C+marketing+and+sports+tech" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3600&pause=900&color=0A0A0A&center=true&vCenter=true&random=false&width=760&lines=Hey+I'm+Jan;Building+with+Build+AI+Tech;AI+Automation+%7C+Big+Data+%7C+Digital+Products;Data-driven+systems+that+help+companies+move+faster;From+lead+gen+to+CRM%2C+finance%2C+marketing+and+sports+tech" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3600&pause=900&color=FFFFFF&center=true&vCenter=true&random=false&width=760&lines=Hey+I'm+Jan;Building+with+Build+AI+Tech;AI+Automation+%7C+Big+Data+%7C+Digital+Products;Data-driven+systems+that+help+companies+move+faster;From+lead+gen+to+CRM%2C+finance%2C+marketing+and+sports+tech" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3600&pause=900&color=FFFFFF&center=true&vCenter=true&random=false&width=760&lines=Hey%2C+I'm+Jan;AI%2C+Big+Data+%26+Product+Builder;Building+Build+AI+Tech;Creating+automation+systems+for+modern+companies;Building+ATHLESY+in+sports+tech;Simple+systems.+Strong+execution." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3600&pause=900&color=0A0A0A&center=true&vCenter=true&random=false&width=760&lines=Hey%2C+I'm+Jan;AI%2C+Big+Data+%26+Product+Builder;Building+Build+AI+Tech;Creating+automation+systems+for+modern+companies;Building+ATHLESY+in+sports+tech;Simple+systems.+Strong+execution." />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3600&pause=900&color=FFFFFF&center=true&vCenter=true&random=false&width=760&lines=Hey%2C+I'm+Jan;AI%2C+Big+Data+%26+Product+Builder;Building+Build+AI+Tech;Creating+automation+systems+for+modern+companies;Building+ATHLESY+in+sports+tech;Simple+systems.+Strong+execution." />
 </picture>
 
 <br/>
 <br/>
 
-<a href="https://www.build-ai-tech.com/">
-  <img src="https://img.shields.io/badge/BUILD%20AI%20TECH-www.build--ai--tech.com-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=googlechrome&logoColor=111111" alt="Build AI Tech" />
-</a>
-&nbsp;
-<a href="https://athlesy-app.com/">
-  <img src="https://img.shields.io/badge/ATHLESY-athlesy--app.com-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=safari&logoColor=111111" alt="ATHLESY" />
-</a>
-
-<br/>
-<br/>
-
-Builder focused on **AI automation**, **big data**, **digital products** and **sports tech**
+I build practical AI systems, digital products, and process-driven solutions for companies that want to move faster.
 
 </div>
 
@@ -28,61 +17,46 @@ Builder focused on **AI automation**, **big data**, **digital products** and **s
 
 ### About
 
-I am building a personal brand around modern systems, useful AI, and products that move businesses forward.
+I am Jan, a builder working across **AI automation**, **big data**, **digital products**, and **sports tech**.
 
-My work sits at the intersection of **AI**, **data-driven processes**, **automation**, and **product thinking**. Through **Build AI Tech**, I help companies reduce manual work, improve operational speed, and create cleaner systems across sales, marketing, finance, and customer workflows.
+My focus is turning complex workflows into clear systems: automating repetitive tasks, structuring data, improving operational speed, and building products that feel simple on the surface while doing serious work underneath.
 
-At the same time, I am also building in **sports tech** with **ATHLESY**, which keeps the profile broader than pure automation and reflects the full mix of product, data, and market experience.
+The bigger picture is a personal brand around execution, systems thinking, and useful technology. **Build AI Tech** represents the automation side of that work. **ATHLESY** represents my product work in sports and community.
 
 ---
 
-### What I work on
+### Current Work
 
 <table>
   <tr>
-    <td width="25%">
-      <strong>Lead Generation</strong>
+    <td width="50%">
+      <strong>Build AI Tech</strong>
       <br/>
-      Automated lead capture, qualification, routing, and follow-up systems.
+      AI automation for companies: lead generation, CRM workflows, finance processes, and marketing channels.
+      <br/>
+      <br/>
+      <a href="https://www.build-ai-tech.com/">www.build-ai-tech.com</a>
     </td>
-    <td width="25%">
-      <strong>CRM Automation</strong>
+    <td width="50%">
+      <strong>ATHLESY</strong>
       <br/>
-      Structured pipelines, synchronized records, triggered actions, and cleaner operations.
-    </td>
-    <td width="25%">
-      <strong>Finance Workflows</strong>
+      Sports tech product work around movement, community, and digital experiences.
       <br/>
-      Invoicing flows, recurring processes, and back-office automation with less friction.
-    </td>
-    <td width="25%">
-      <strong>Marketing Channels</strong>
       <br/>
-      Campaign support, automation layers, and scalable content or outbound workflows.
+      <a href="https://athlesy-app.com/">athlesy-app.com</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### Focus
+### Focus Areas
 
-- AI automation that solves real operational bottlenecks
-- Big data and process-oriented thinking for scalable growth
-- Digital product building across B2B workflows and sports tech
-- Systems that are clean, minimal, and actually useful in day-to-day work
-
----
-
-### Ventures
-
-- **Build AI Tech**  
-  AI automation for lead generation, CRM systems, finance operations, and marketing workflows  
-  [www.build-ai-tech.com](https://www.build-ai-tech.com/)
-
-- **ATHLESY**  
-  Social sports product work with a focus on movement, community, and digital experience  
-  [athlesy-app.com](https://athlesy-app.com/)
+- Building AI automations that remove manual work from business processes
+- Designing CRM, lead, finance, and marketing workflows that are clean and scalable
+- Using data and structured processes to help teams make better decisions
+- Creating digital products with a minimal interface and a strong operational backbone
+- Connecting product thinking with sports, community, and business automation
 
 ---
 
@@ -140,10 +114,3 @@ At the same time, I am also building in **sports tech** with **ATHLESY**, which 
 
 </div>
 
----
-
-<div align="center">
-
-Minimal systems. Clear interfaces. Useful automation.
-
-</div>
