@@ -1,162 +1,140 @@
 <div align="center">
 
-<!-- Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+Jan;Founder+%40+ATHLESY;Building+the+Future+of+Social+Sports;Together+we+Thrive." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=4000&pause=1000&color=0A0A0A&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+Jan;Founder+%40+ATHLESY;Building+the+Future+of+Social+Sports;Together+we+Thrive." />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+Jan;Founder+%40+ATHLESY;Building+the+Future+of+Social+Sports;Together+we+Thrive." />
-</picture>
-
-<br/><br/>
-
-Founder & CEO at **ATHLESY** · Passionate about **Big Data**, **AI** & **Sport**
-<br/>
-</div>
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-f0f0f0?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f0f0f0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-f0f0f0?style=for-the-badge&logo=python&logoColor=3776AB" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-f0f0f0?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swift-1a1a1a?style=for-the-badge&logo=swift&logoColor=FA7343" />
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-f0f0f0?style=for-the-badge&logo=swift&logoColor=FA7343" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-f0f0f0?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
-</picture>
-
-**Frontend**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-f0f0f0?style=for-the-badge&logo=nextdotjs&logoColor=0a0a0a" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="React" src="https://img.shields.io/badge/React-f0f0f0?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-f0f0f0?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
-</picture>
-
-**Backend & Infrastructure**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-f0f0f0?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-f0f0f0?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-f0f0f0?style=for-the-badge&logo=vercel&logoColor=0a0a0a" />
-</picture>
-
-**AI & Tools**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude_AI-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img alt="Claude AI" src="https://img.shields.io/badge/Claude_AI-f0f0f0?style=for-the-badge&logo=anthropic&logoColor=0a0a0a" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OpenAI-1a1a1a?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-f0f0f0?style=for-the-badge&logo=openai&logoColor=0a0a0a" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-f0f0f0?style=for-the-badge&logo=git&logoColor=F05032" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-f0f0f0?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</picture>
-
-</div>
-
----
-
-### Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jank1096&hide_border=true&background=00000000&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jank1096&hide_border=true&background=00000000&stroke=00000000&ring=0a0a0a&fire=0a0a0a&currStreakNum=0a0a0a&sideNums=0a0a0a&currStreakLabel=6e6e73&sideLabels=6e6e73&dates=999999" />
-  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=jank1096&hide_border=true&background=00000000&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Jan%20K.%20%20%20%20Build%20AI%20Tech&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20%7C%20Clean%20Systems%20%7C%20Modern%20Products&descAlignY=64&descSize=15" alt="Header" />
 
 <br/>
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/409+-Contributions-ffffff?style=flat-square&labelColor=1a1a1a" />
-  <img alt="Contributions" src="https://img.shields.io/badge/409+-Contributions-0a0a0a?style=flat-square&labelColor=f0f0f0" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/7-Repositories-ffffff?style=flat-square&labelColor=1a1a1a" />
-  <img alt="Repos" src="https://img.shields.io/badge/7-Repositories-0a0a0a?style=flat-square&labelColor=f0f0f0" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/60+-Days%20Coding-ffffff?style=flat-square&labelColor=1a1a1a" />
-  <img alt="Days Coding" src="https://img.shields.io/badge/60+-Days%20Coding-0a0a0a?style=flat-square&labelColor=f0f0f0" />
-</picture>
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jank1096/jank1096/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jank1096/jank1096/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jank1096/jank1096/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://athlesy-app.com">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ATHLESY-Together%20we%20Thrive.-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=ffffff" />
-  <img alt="ATHLESY" src="https://img.shields.io/badge/ATHLESY-Together%20we%20Thrive.-f0f0f0?style=for-the-badge&labelColor=f0f0f0&color=0a0a0a" />
-</picture>
-
+<a href="https://buildaitech.com">
+  <img src="https://img.shields.io/badge/Build%20AI%20Tech-buildaitech.com-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=googlechrome&logoColor=111111" alt="Build AI Tech" />
+</a>
+&nbsp;
+<a href="https://github.com/jank1096">
+  <img src="https://img.shields.io/badge/GitHub-jank1096-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=github&logoColor=111111" alt="GitHub" />
 </a>
 
+</div>
+
 <br/>
 
-AI-powered social sports platform · Connecting people through movement
+<table>
+  <tr>
+    <td>
+
+### About
+
+We build modern AI automations for teams that want cleaner workflows, less manual work, and better operational speed.
+
+At **Build AI Tech**, we focus on practical automation systems that create visible leverage across sales, operations, and marketing.
+
+- AI-powered lead generation
+- CRM automation
+- Invoicing and finance workflow automation
+- Marketing channel automation
+
+Website: [buildaitech.com](https://buildaitech.com)
+
+  </td>
+  <td>
+
+### Focus
+
+<img src="https://img.shields.io/badge/AI%20Automation-F5F5F7?style=flat-square&labelColor=EDEEF2&color=F5F5F7" alt="AI Automation" />
+<br/>
+<img src="https://img.shields.io/badge/System%20Design-F5F5F7?style=flat-square&labelColor=EDEEF2&color=F5F5F7" alt="System Design" />
+<br/>
+<img src="https://img.shields.io/badge/Product%20Engineering-F5F5F7?style=flat-square&labelColor=EDEEF2&color=F5F5F7" alt="Product Engineering" />
+<br/>
+<img src="https://img.shields.io/badge/Data%20Workflows-F5F5F7?style=flat-square&labelColor=EDEEF2&color=F5F5F7" alt="Data Workflows" />
+<br/>
+<img src="https://img.shields.io/badge/Minimal%20UX-F5F5F7?style=flat-square&labelColor=EDEEF2&color=F5F5F7" alt="Minimal UX" />
+
+  </td>
+  </tr>
+</table>
+
+---
+
+### What we build
+
+<table>
+  <tr>
+    <td width="25%">
+      <strong>Lead Systems</strong>
+      <br/>
+      Automated lead capture, qualification, routing, and follow-up flows.
+    </td>
+    <td width="25%">
+      <strong>CRM Workflows</strong>
+      <br/>
+      Cleaner pipelines, synced records, triggered actions, and less admin overhead.
+    </td>
+    <td width="25%">
+      <strong>Finance Automation</strong>
+      <br/>
+      Invoice workflows, recurring processes, and structured back-office operations.
+    </td>
+    <td width="25%">
+      <strong>Marketing Automation</strong>
+      <br/>
+      Automated content, campaign support, and channel-based growth workflows.
+    </td>
+  </tr>
+</table>
+
+---
+
+### Selected work
+
+- **Build AI Tech**: AI automation systems for sales, CRM, finance, and marketing operations
+- **ATHLESY**: product work in social sports, now positioned as one project within the broader portfolio
+
+---
+
+### Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/Java-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Next.js-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=nextdotjs&logoColor=111111" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Firebase-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+<img src="https://img.shields.io/badge/Vercel-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=vercel&logoColor=111111" alt="Vercel" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=openai&logoColor=111111" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=anthropic&logoColor=111111" alt="Claude" />
+<img src="https://img.shields.io/badge/Figma-F5F5F7?style=for-the-badge&labelColor=EDEEF2&color=F5F5F7&logo=figma&logoColor=F24E1E" alt="Figma" />
+
+</div>
+
+---
+
+### GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jank1096&hide_border=true&background=00000000&stroke=00000000&ring=EDEEF2&fire=EDEEF2&currStreakNum=EDEEF2&sideNums=EDEEF2&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jank1096&hide_border=true&background=00000000&stroke=00000000&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=6B7280&sideLabels=6B7280&dates=9CA3AF" />
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=jank1096&hide_border=true&background=00000000&stroke=00000000&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=6B7280&sideLabels=6B7280&dates=9CA3AF" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+Minimal systems. Clear interfaces. Useful automation.
 
 </div>
