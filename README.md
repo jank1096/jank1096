@@ -50,6 +50,14 @@ The bigger picture is a personal brand around execution, systems thinking, and u
 
 ---
 
+### Learning & Foundations
+
+Sharpening the fundamentals behind the systems, documented module by module:
+
+**[python-lernjourney](https://github.com/jank1096/python-lernjourney)** — a structured path through Python and data analysis, from core language features to Pandas, databases, and memory optimization.
+
+---
+
 ### Focus Areas
 
 - Building AI automations that remove manual work from business processes
